@@ -10,8 +10,7 @@ Here's our result:
 abc
 ![Insulator detect](/4.jpg)
 fault
-![fa](/image.png)
-
+![fa](/120135293_1232457257138737_6754434320091988052_n.png)
 bna
 ![Image processing](/Untitled Diagram.png)
 
