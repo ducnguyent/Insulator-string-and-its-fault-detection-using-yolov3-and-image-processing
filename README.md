@@ -7,7 +7,7 @@ using some image processing method to find fault of some insulator
 Here's our result:
 
 ![Insulator detect 1](/1.JPG)
-abc
+ab
 ![Insulator detect](/4.jpg)
 fault
 ![fa](/120135293_1232457257138737_6754434320091988052_n.png)
